@@ -20,7 +20,8 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="PHPStrom" src="https://img.shields.io/badge/-PHPStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
+  <img alt="PHPStrom" src="https://img.shields.io/badge/-PHPStorm-984EF3?style=flat-square&logo=webstorm&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-208CBD?style=flat-square&logo=phpstorm&logoColor=white" />
 </p>
 
 <!--
