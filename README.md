@@ -17,9 +17,11 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" />
+  <img alt="MYSQL" src="https://img.shields.io/badge/-Mysql-035C82?style=flat-square&logo=mysql&logoColor=fff" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
-    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-208CBD?style=flat-square&logo=phpstorm&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-208CBD?style=flat-square&logo=phpstorm&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="PHPStrom" src="https://img.shields.io/badge/-PHPStorm-984EF3?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
