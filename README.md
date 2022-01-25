@@ -24,7 +24,8 @@
   <img alt="PHPStrom" src="https://img.shields.io/badge/-PHPStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-<a href="https://app.daily.dev/LeCuistotduWeb"><img src="https://api.daily.dev/devcards/ac8ab922cd7244e7867061fca2ceba9c.png?r=o94" width="400" alt="Gaetan Boyron's Dev Card"/></a>
+<!--
+<a href="https://app.daily.dev/LeCuistotduWeb"><img src="https://api.daily.dev/devcards/ac8ab922cd7244e7867061fca2ceba9c.png?r=o94" width="400" alt="Gaetan Boyron's Dev Card"/></a> -->
 
 <!--
 **LeCuistotduWeb/lecuistotduweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
