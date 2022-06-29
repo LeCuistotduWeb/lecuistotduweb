@@ -28,7 +28,7 @@
 </p>
  
  ## 
- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/LeCuistotduWeb/lecuistotduweb/blob/main/devcard.svg" width="250" alt="Gaetan Boyron's Dev Card"/></a>
+ <a href="https://app.daily.dev/lecuistotduweb"><img src="https://github.com/LeCuistotduWeb/lecuistotduweb/blob/main/devcard.svg" width="250" alt="Gaetan Boyron's Dev Card"/></a>
 
 <!--
 **LeCuistotduWeb/lecuistotduweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
