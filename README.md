@@ -27,7 +27,7 @@
   <img alt="Adobe creative cloud" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-red?style=flat-square&logo=adobe&logoColor=fff" />
 </p>
 
-<a href="https://app.daily.dev/LeCuistotduWeb"><img src="https://api.daily.dev/devcards/ac8ab922cd7244e7867061fca2ceba9c.png?r=o94" width="400" alt="Gaetan Boyron's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/LeCuistotduWeb/lecuistotduweb/blob/master/devcard.svg" width="400" alt="Gaetan Boyron's Dev Card"/></a>
 
 <!--
 **LeCuistotduWeb/lecuistotduweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
