@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Gaëtan Boyron alias LeCuistotduWeb
 
-- 🔭 I’m currently working on react and nextjs
-- 🌱 I’m currently learning react and nextjs
+- 🔭 I’m currently working on ReactJs, NextJs and Typescript
+- 🌱 I’m currently learning Typesript
 - 👀 I’m interested in software development, graphic design
 - 📫 How to reach me: https://www.linkedin.com/in/ga%C3%ABtan-boyron-developpeur-web/
 - 🌐 My personal website [lecuistotduweb.fr](https://lecuistotduweb.fr)
