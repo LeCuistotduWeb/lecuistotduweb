@@ -1,36 +1,74 @@
-### Hi there 👋 I'm Gaëtan Boyron alias LeCuistotduWeb
+# 👨🍳💻 **LeCuistotduWeb** *(Gaëtan Boyron)*
 
-- 🔭 I’m currently working on ReactJs, NextJs and Typescript
-- 👀 I’m interested in software development, graphic design, best practices
-- 📫 How to reach me: https://www.linkedin.com/in/ga%C3%ABtan-boyron-developpeur-web/
-- 🌐 My personal website [lecuistotduweb.fr](https://lecuistotduweb.fr)
+**Développeur Front-end Senior** spécialisé en **React, Next.js & TypeScript**
 
-## 👨🏻‍💻 &nbsp;Things I code with ##
-<p>
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" />
-  <img alt="MYSQL" src="https://img.shields.io/badge/-Mysql-035C82?style=flat-square&logo=mysql&logoColor=fff" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
-  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-208CBD?style=flat-square&logo=phpstorm&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="PHPStrom" src="https://img.shields.io/badge/-PHPStorm-984EF3?style=flat-square&logo=webstorm&logoColor=white" />
-  <img alt="Adobe creative cloud" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-red?style=flat-square&logo=adobe&logoColor=fff" />
+Je crée des **interfaces performantes, accessibles et élégantes** – comme un chef prépare un plat : avec **rigueur, créativité et une touche d'innovation**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaëtan-boyron-developpeur-web/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lecuistotduweb.fr)
+
+---
+
+## 🍳 **Ma Carte des Spécialités Techniques**
+
+### **Front-End & UI**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
- 
- ## 
- <a href="https://app.daily.dev/lecuistotduweb"><img src="https://github.com/LeCuistotduWeb/lecuistotduweb/blob/main/devcard.svg" width="250" alt="Gaetan Boyron's Dev Card"/></a>
 
-<!--
-**LeCuistotduWeb/lecuistotduweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- ⚡ Fun fact: ...
--->
+### **Back-End & CMS**
+<p align="left">
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### **Outils & Workflow**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+
+---
+
+## 📋 **Mes Recettes Perso** *(Projets qui mijotent en dehors du travail !)*
+   **Projet**               | **Description**                                                                                                                                                                                                 | **Stack**                          | **Lien**                                                                 |
+ |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|--------------------------------------------------------------------------|
+ | **[Mon VDI Assistant](https://mon-vdi-assistant.fr)** | **Outil tout-en-un** pour les **Vendeurs à Domicile Indépendants** : gestion des clients, commandes, produits et réunions. Conçu pour simplifier leur quotidien et booster leurs ventes.                                      | React, TypeScript, Firebase        | [🔗 mon-vdi-assistant.fr](https://mon-vdi-assistant.fr)                  |
+ | **[LaClasseDeFleur](https://laclassedefleur.fr)** | **Plateforme éducative** (site + chaîne YouTube) pour apprendre le français de manière ludique. Projet co-créé avec ma conjointe, professeure de français. Vente d'e-books et ressources pédagogiques. | Next.js, Strapi, Tailwind CSS      | [🔗 laclassedefleur.fr](https://laclassedefleur.fr)                      |
+ | **[Le Poudrier de Fleur](https://lepoudrierdefleur.fr)** | **Blog beauté & lifestyle** : refonte complète du site web avec une nouvelle identité visuelle. Contenu axé sur les produits naturels et le bien-être.                                                   | Next.js, Stripe, PostgreSQL        | [🔗 lepoudrierdefleur.fr](https://lepoudrierdefleur.fr)                  |
+
+---
+
+## 🍴 **En Ce Moment, Je Cuisine Avec...**
+> *"Un bon projet, c'est comme une bonne recette : il faut les bons ingrédients, une méthode claire, et une touche d'audace !"*
+
+- **Next.js 16** (Server Actions, ISR amélioré)
+- **TypeScript** (pour un code robuste et typé)
+- **React Hook Form + Zod** (formulaires typés et validés)
+- **Prisma + PostgreSQL** (bases de données fiables)
+- **Jest + React Testing Library** (tests complets)
+- **Tailwind CSS** (interfaces élégantes et réactives)
+
+---
+
+## 📊 **Mes Stats** *(Comme les notes d'un restaurant !)*
+
+<a href="https://app.daily.dev/lecuistotduweb" style="inline-block">
+  <img src="https://github.com/LeCuistotduWeb/lecuistotduweb/blob/main/devcard.svg" width="250" alt="Gaetan Boyron's Dev Card" align="left"/>
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeCuistotduWeb&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
+
+---
+
+*💡 "Un bon développeur, comme un bon cuisinier, ne se contente pas de suivre la recette : il comprend les ingrédients, maîtrise les techniques, et ajoute sa touche personnelle."* — **LeCuistotduWeb**
