@@ -62,8 +62,8 @@ Je conçois des **expériences fluides, performantes et esthétiques, où chaque
 |------------|-----------------|-----------|----------|
 | **[Mon VDI Assistant](https://mon-vdi-assistant.fr)** | **Outil SaaS tout-en-un** pour les **Vendeurs à Domicile Indépendants** : gestion centralisée des clients, commandes, produits et réunions. Conçu pour simplifier leur quotidien et booster leurs ventes. | React, TypeScript, Next.js, PostgreSQL, Node.js | [🔗 mon-vdi-assistant.fr](https://mon-vdi-assistant.fr) |
 | **[La Classe de Fleur](https://laclassedefleur.fr)** | **Projet pédagogique** (site + chaîne YouTube) co-créé avec ma conjointe, professeure de français : vidéos courtes pour apprendre le français et la méthodologie, vente d'e-books. | Next.js, Strapi, Tailwind CSS, Stripe, Node.js, PostgreSQL | [🔗 laclassedefleur.fr](https://laclassedefleur.fr) |
-| **[Le Poudrier de Fleur](https://lepoudrierdefleur.fr)** | **Blog beauté & lifestyle** : refonte globale du site et création d'une nouvelle identité visuelle. | Next.js, Stripe, PostgreSQL | [🔗 lepoudrierdefleur.fr](https://lepoudrierdefleur.fr) |
-| **Portfolio Marie Jade** | **Site portfolio sur mesure** pour la danseuse Marie Jade Helmlinger. | — | — |
+| **[Le Poudrier de Fleur](https://lepoudrierdefleur.fr)** | **Blog beauté & lifestyle** : refonte globale du site et création d'une nouvelle identité visuelle. | Next.js, Tailwind CSS, Stripe, PostgreSQL, Wordpress API | [🔗 lepoudrierdefleur.fr](https://lepoudrierdefleur.fr) |
+| **Portfolio Marie Jade** | **Site portfolio sur mesure** pour la danseuse Marie Jade Helmlinger. | Wordpress, MySQL, Theme custom | — |
 
 ---
 
