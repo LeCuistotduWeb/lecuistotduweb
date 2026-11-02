@@ -83,12 +83,10 @@ Je conçois des **expériences fluides, performantes et esthétiques, où chaque
 ---
 
 ## 📊 **Mes Stats** *(Comme les notes d'un restaurant !)*
-
 <a href="https://app.daily.dev/lecuistotduweb" style="inline-block">
-  <img src="https://github.com/LeCuistotduWeb/lecuistotduweb/blob/main/devcard.svg" width="250" alt="Gaetan Boyron's Dev Card" align="left"/>
+  <img src="https://api.daily.dev/devcards/v2/XZgZMAn6c.png?type=default&r=gwq" width="330" alt="Gaetan Boyron (LeCuistotduWeb)'s Dev Card"/>
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeCuistotduWeb&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeCuistotduWeb&theme=javascript-dark&hide_border=true&locale=fr" alt="GitHub Streak" /></a>
 
 <br clear="left"/>
 
