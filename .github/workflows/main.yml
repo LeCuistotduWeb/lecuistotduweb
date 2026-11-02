@@ -1,30 +1,19 @@
-# This is a basic workflow to help you get started with Actions
-
-name: DevCard
-
-permissions:
-  contents: write
-
-# Controls when the workflow will run
+name: daily-devcard
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
+  workflow_dispatch:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-
   devcard:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@3.2.1
+        uses: dailydotdev/action-devcard@3.0.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.USER_ID }}
+          commit_message: "chore: update ${filename}"
